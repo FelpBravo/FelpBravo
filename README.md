@@ -1,3 +1,28 @@
+<h1 align="center">Hi I'm Felipe 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-bravo-espinosa-aab013163/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@felipebravoespinosa-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:felipe.bravo.espinosa@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-felipe.bravo.espinosa@gmail.com-blue?style=flat&logo=gmail">
+  </a>
+</p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+
+- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
+- 🔍 I have 2 live apps: 
+  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
+  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
+- 💬 Ask me about **ReactJs and Frontend**
+
+
+
+⭐ From [mohamedabusrea](https://github.com/mohamedabusrea)
+
+
 <h1 align="center">Hi 👋, I'm Felipe Bravo</h1>
 <h3 align="center">Data Engineer and Technology Solutions Developer</h3>
 
@@ -27,6 +52,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/FelpBravo)
 </p>
 
 <!-- Librerías -->
@@ -90,3 +116,12 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felpbravo" alt="felpbravo" />
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-bravo-espinosa-aab013163/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@felipebravoespinosa-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:felipe.bravo.espinosa@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-felipe.bravo.espinosa@gmail.com-blue?style=flat&logo=gmail">
+  </a>
+</p>
