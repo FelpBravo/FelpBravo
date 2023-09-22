@@ -12,11 +12,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 
+- 💻 &nbsp; Python | PySpark
 
 - 🛢 &nbsp; SQL Server | Oracle | PostgreSQL
 
-- 🔧 &nbsp; Git | Selenium | Jenkins | Bamboo | Docker 🐳 | Spark
+- 🔧 &nbsp; Git | Selenium | Jenkins | Bamboo | Docker 🐳 
 
 - 🌐 &nbsp; Google Cloud Platform | Oracle Cloud Infrastructure
 
